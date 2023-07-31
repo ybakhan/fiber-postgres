@@ -1,0 +1,12 @@
+port: 8080
+version: v1
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: password
+  name: postgres
+  sllMode: disable
+cache:
+  host: localhost
+  port: 11211
